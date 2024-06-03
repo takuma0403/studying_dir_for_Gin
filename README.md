@@ -1,5 +1,9 @@
 # studying_dir_for_Gin
 
+### 動かし方
+1. `go get .`
+2. `go run .`
+
 ### 実行テスト
 - ```
   curl http://localhost:8080/albums
